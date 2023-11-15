@@ -1,0 +1,6 @@
+2023/11/15-21:37:38.627 4 Reusing MANIFEST /home/thanhhai/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/15-21:37:38.628 4 Recovering log #3
+2023/11/15-21:37:38.628 4 Reusing old log /home/thanhhai/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2023/11/15-21:38:00.081 6 Level-0 table #5: started
+2023/11/15-21:38:00.094 6 Level-0 table #5: 43799 bytes OK
+2023/11/15-21:38:00.102 6 Delete type=0 #3

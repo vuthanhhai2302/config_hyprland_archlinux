@@ -1,0 +1,4 @@
+2023/11/15-21:37:41.733 869 Reusing MANIFEST /home/thanhhai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-21:37:41.733 869 Recovering log #18
+2023/11/15-21:37:41.735 869 Reusing old log /home/thanhhai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
+2023/11/15-21:37:41.735 869 Delete type=2 #17
